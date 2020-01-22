@@ -3,17 +3,17 @@
 
 # Intro_to_python
 
-Here is a wide list of resources. 
+Here is a wide variety of resources. 
 Make sure to set up Python on your computer, and I highly recommend you download Pycharm.
-make sure to check out at least one resource in each category below. You aren't expected to complete everything. These are just a sampling of resources to help you get up to started.
+Check out at least one resource in each category below. You aren't expected to complete everything. These are just a sampling of resources to help you get up to started.
 
-0 - set up Python on your computer:
+0 - Set up Python on your computer:
   - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
 
 1 - Pycharm:
   - Download the Professional version
   - https://www.jetbrains.com/pycharm/download/
-  - Get license free With your SCC Student email
+  - Get free license with your SCC Student email
   - https://www.jetbrains.com/shop/eform/students
   - Watch setup video
   - https://www.youtube.com/watch?v=56bPIGf4us0
